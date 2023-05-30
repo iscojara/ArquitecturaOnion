@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MiurFhFfGgTAv7P2mae6hyK2UcyVSq0rp+3fnKjz5Qq9Slb330nJ0+jE1QfPuXe8cZ/esF7FkL5XK83P6lHiiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iscoj\\Desktop\\XploraOnion\\UnitOfWork\\UnitOfWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iscoj\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\iscoj\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\iscoj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

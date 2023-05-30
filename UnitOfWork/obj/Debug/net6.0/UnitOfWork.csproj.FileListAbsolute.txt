@@ -1,0 +1,17 @@
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\UnitOfWork.deps.json
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\UnitOfWork.dll
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\UnitOfWork.pdb
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\Domain.dll
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\Repository.dll
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\Repository.pdb
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\bin\Debug\net6.0\Domain.pdb
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.AssemblyInfo.cs
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.csproj.CopyComplete
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.dll
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\refint\UnitOfWork.dll
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\UnitOfWork.pdb
+C:\Users\iscoj\Desktop\XploraOnion\UnitOfWork\obj\Debug\net6.0\ref\UnitOfWork.dll
